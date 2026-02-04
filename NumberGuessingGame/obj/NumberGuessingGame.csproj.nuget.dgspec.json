@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/app/NumberGuessingGame/NumberGuessingGame.csproj": {}
+    "C:\\Users\\y00h\\vibecode_test\\vibecode_test\\NumberGuessingGame\\NumberGuessingGame.csproj": {}
   },
   "projects": {
-    "/app/NumberGuessingGame/NumberGuessingGame.csproj": {
+    "C:\\Users\\y00h\\vibecode_test\\vibecode_test\\NumberGuessingGame\\NumberGuessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/NumberGuessingGame/NumberGuessingGame.csproj",
+        "projectUniqueName": "C:\\Users\\y00h\\vibecode_test\\vibecode_test\\NumberGuessingGame\\NumberGuessingGame.csproj",
         "projectName": "NumberGuessingGame",
-        "projectPath": "/app/NumberGuessingGame/NumberGuessingGame.csproj",
-        "packagesPath": "/home/jules/.nuget/packages/",
-        "outputPath": "/app/NumberGuessingGame/obj/",
+        "projectPath": "C:\\Users\\y00h\\vibecode_test\\vibecode_test\\NumberGuessingGame\\NumberGuessingGame.csproj",
+        "packagesPath": "C:\\Users\\y00h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\y00h\\vibecode_test\\vibecode_test\\NumberGuessingGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jules/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\y00h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,8 +58,20 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.22, 8.0.22]"
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
             }
           ],
           "frameworkReferences": {
@@ -66,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

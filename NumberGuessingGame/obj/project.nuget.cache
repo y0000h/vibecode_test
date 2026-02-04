@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "978cR+d3gbQ=",
+  "dgSpecHash": "V2/QsUQr4hg=",
   "success": true,
-  "projectFilePath": "/app/NumberGuessingGame/NumberGuessingGame.csproj",
+  "projectFilePath": "C:\\Users\\y00h\\vibecode_test\\vibecode_test\\NumberGuessingGame\\NumberGuessingGame.csproj",
   "expectedPackageFiles": [
-    "/home/jules/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+    "C:\\Users\\y00h\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\y00h\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\y00h\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\y00h\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
   ],
   "logs": []
 }
